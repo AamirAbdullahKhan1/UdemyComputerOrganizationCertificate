@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.imgs{
+    margin: auto;
+    background-color: rgb(187, 193, 199);
+    overflow-y: hidden;
+}
+
+.cert{
+    margin-left: 250px;
+    height: 750px;
+    width: 1000px;
+    background-color: rgb(187, 193, 199);
+}
